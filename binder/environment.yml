@@ -1,4 +1,4 @@
-name: jupyanno
+name: ivissearch
 channels:
   - damianavila82
   - satra
@@ -26,4 +26,5 @@ dependencies:
     - seaborn==0.7.1
     - cloudpickle
     - fileupload
+    - ipywebrtc
     - git+https://github.com/chestrays/cornerstone_widget
