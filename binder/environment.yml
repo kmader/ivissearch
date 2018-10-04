@@ -26,5 +26,6 @@ dependencies:
     - seaborn==0.7.1
     - cloudpickle
     - fileupload
+    - ipywidgets>=7.4.0
     - ipywebrtc
     - git+https://github.com/chestrays/cornerstone_widget
